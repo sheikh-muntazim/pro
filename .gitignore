@@ -5,12 +5,9 @@
 /.pnp
 .pnp.js
 
-#practice
-/pureComponent
-/Components
-/assets
-/public
-/Api.js
+
+#theme
+/theme
 
 # testing
 /coverage
